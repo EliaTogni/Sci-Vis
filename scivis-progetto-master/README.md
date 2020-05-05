@@ -15,6 +15,8 @@ Il dataset non è quello originale ma una versione trasformata, con molte righe 
 ## Link a materiali utili etc.
 Dataset originale: https://www.kaggle.com/NUFORC/ufo-sightings
 
+https://demo.codimd.org/eU9K5C9ETVW3R4Mpw5TJcw?view
+
 Link usati per la presentazione:
 https://medium.com/nightingale/how-to-choose-the-colors-for-your-data-visualizations-50b2557fa335  
 https://pdfs.semanticscholar.org/e186/444cf51af10cc14a483d886dcb9f9f9f28df.pdf  
